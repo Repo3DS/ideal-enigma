@@ -1,18 +1,18 @@
 [
 {
-"path": "/ss23/",
+"path": "ss23/",
 "users": ["ss23"]
 },
 {
-"path": "/everyone/",
+"path": "everyone/",
 "users": ["$everyone$"]
 },
 {
-"path": "/noone/",
+"path": "noone/",
 "users": ["sdlfknslfknsfd"]
 },
 {
-"path": "/noone2/",
+"path": "noone2/",
 "users": []
 }
 ]
