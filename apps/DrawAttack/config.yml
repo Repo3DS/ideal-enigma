@@ -1,12 +1,13 @@
 title: Draw Attack
 dir: DrawAttack
-authors: Cruel
-versions: 1.1
+author: Cruel
+version: 1.1
 description: "Online drawing game"
 long-description: "Online drawing game similar to Pictionary. One player is selected to draw a random word while everyone tries to guess what is being drawn. 2-16 player."
 n3ds-only: false
 file: https://github.com/Cruel/DrawAttack/releases/download/1.1/DrawAttack-1.1-3dsx.zip
-file-sha256: 72628e329a62b702461790cce88cdff2e08c6864a850e7a408279c974c6ba597
+filesize: 1288813
+file-md5: 6859eb32f4e1309ae743e8f2f812566c
 exclude:
   - "/3ds/DrawAttack/save.dat"
   - "/3ds/DrawAttack/config.dat"
