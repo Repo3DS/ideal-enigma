@@ -1,0 +1,9 @@
+title: FBI
+dir: FBI
+author: Steveice10
+version: 1.4.17
+description: "Open source CIA manager"
+file: https://github.com/Repo3DS/ideal-enigma/releases/download/r1/FBI.tar.xz
+filesize: 236308
+file-md5: ba46917b36cda704f42c1490491e067f
+install-message: "FBI does not currently work with firmwares above 9.2 while running as a 3dsx."
