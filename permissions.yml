@@ -8,7 +8,7 @@
   - "Substance12"
 "apps/3dscraft":
   - "smealum"
-"apps/2048":
+"apps/2048-3D":
   - "MrJPGames"
 "apps/InsectoidDefense":
   - "sgowen"
@@ -16,3 +16,5 @@
   - "sgowen"
 "apps/NASA":
   - "Rinnegatamante"
+"apps/Minicraft3DS":
+  - "DavidSM64"
