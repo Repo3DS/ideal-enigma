@@ -5,6 +5,6 @@ category: utilities
 rating: E
 description: "CIA manager"
 long-description: "CIA manager that works up to firmware 10.3"
-file: https://github.com/Repo3DS/ideal-enigma/releases/download/r1/NASA.tar.xz
+file: https://github.com/Repo3DS/BrewRepo/releases/download/r1/NASA.tar.xz
 filesize: 203104
 file-md5: e47f5e728b856008abf1056997e595cf

@@ -8,3 +8,6 @@ long-description: "You play as an infinitely bouncing ball attempting to nab as 
 file: https://github.com/Repo3DS/BrewRepo/releases/download/r1/Antibounce.tar.xz
 filesize: 1353672
 file-md5: 9c3cc52b147b763ecc269485c9dfef78
+screenshots:
+  - "http://i.imgur.com/6iw8VD9.png"
+  - "http://i.imgur.com/TcNZufM.png"
